@@ -42,28 +42,53 @@ analise-vendas-python/
 
 ## 🚀 Como Executar
 
+### Pré-requisitos
+- Python 3.8 ou superior instalado
+- Git instalado (opcional, apenas para clonar)
+
+### Passo a Passo
+
 1. **Clone o repositório**
-   bash
+   ```bash
    git clone https://github.com/mayconaap/analise-vendas-python.git
 
-2. **Entre na pasta**
-    bash
-    cd analise-vendas-python
+2. **Entre na pasta do projeto**
+   ```bash
+   cd analise-vendas-python
 
-3. **Execute o script**
-    bash
+3. **Execute o script Python**
+   ```bash
     python analise_vendas.py
 
-4. **Quando perguntar, digite "s" para salvar o relatório**
+4. **Quando o programa perguntar:**
+   ```bash
+   💾 Deseja salvar este relatório em um arquivo? (s/n):
+   Digite s (a letra "s" minúscula) e pressione Enter
 
-5. **Exemplo de saída**
+5. **Pronto! O relatório será salvo como relatorio_vendas.txt na mesma pasta**
+
+Exemplo de execução:
 🔍 INICIANDO ANÁLISE DE VENDAS
 ------------------------------
 ✓ Dados carregados com sucesso! 20 registros encontrados.
 
+==================================================
+               📊 RELATÓRIO DE VENDAS                
+==================================================
+Data da análise: 27/02/2024 15:30
+--------------------------------------------------
+
 💰 Faturamento Total: R$ 43.670,00
 🏆 Produto mais vendido: Mouse Logitech (26 unidades)
 📈 Média de vendas por dia: R$ 2.912,47
+
+💾 Deseja salvar este relatório em um arquivo? (s/n): s
+✅ Relatório salvo como 'relatorio_vendas.txt'
+
+
+
+
+
 
 ## 👨‍💻 Autor
 

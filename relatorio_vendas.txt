@@ -1,0 +1,39 @@
+
+==================================================
+              📊 RELATÓRIO DE VENDAS               
+==================================================
+Data da análise: 26/02/2026 22:33
+--------------------------------------------------
+
+💰 Faturamento Total: R$ 39,270.00
+
+🏆 Produto mais vendido: Mouse Logitech
+   Quantidade: 26 unidades
+
+📈 Média de vendas por dia: R$ 3,927.00
+
+🥇 Top 3 dias com maior faturamento:
+   1. 2024-01-05: R$ 9,750.00
+   2. 2024-01-09: R$ 6,900.00
+   3. 2024-01-13: R$ 5,100.00
+
+📦 Resumo por produto:
+   • Notebook Dell:
+     - Quantidade: 5 unidades
+     - Faturamento: R$ 22,500.00
+   • Mouse Logitech:
+     - Quantidade: 26 unidades
+     - Faturamento: R$ 3,900.00
+   • Teclado Mecânico:
+     - Quantidade: 9 unidades
+     - Faturamento: R$ 2,520.00
+   • Monitor Samsung:
+     - Quantidade: 6 unidades
+     - Faturamento: R$ 7,200.00
+   • Webcam C920:
+     - Quantidade: 9 unidades
+     - Faturamento: R$ 3,150.00
+
+==================================================
+                ✅ FIM DO RELATÓRIO                
+==================================================

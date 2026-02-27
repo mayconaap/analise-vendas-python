@@ -1,0 +1,21 @@
+data,produto,quantidade,preco_unitario
+2024-01-05,Notebook Dell,2,4500.00
+2024-01-05,Mouse Logitech,5,150.00
+2024-01-06,Teclado Mecânico,3,280.00
+2024-01-06,Monitor Samsung,1,1200.00
+2024-01-07,Notebook Dell,1,4500.00
+2024-01-07,Mouse Logitech,3,150.00
+2024-01-08,Webcam C920,4,350.00
+2024-01-08,Teclado Mecânico,2,280.00
+2024-01-09,Monitor Samsung,2,1200.00
+2024-01-09,Notebook Dell,1,4500.00
+2024-01-10,Mouse Logitech,8,150.00
+2024-01-10,Webcam C920,2,350.00
+2024-01-12,Teclado Mecânico,1,280.00
+2024-01-12,Monitor Samsung,1,1200.00
+2024-01-13,Notebook Dell,1,4500.00
+2024-01-13,Mouse Logitech,4,150.00
+2024-01-14,Webcam C920,3,350.00
+2024-01-14,Teclado Mecânico,3,280.00
+2024-01-15,Monitor Samsung,2,1200.00
+2024-01-15,Mouse Logitech,6,150.00

@@ -1,0 +1,14 @@
+# Arquivos do Python
+*__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+idea/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
